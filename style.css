@@ -1,0 +1,69 @@
+div{
+    /*border-style: solid;*/
+    border-width: 1px;
+}
+
+.izq{
+    display: inline-block;
+    margin-left: 20%;
+    width: 38%;
+}
+
+.der{
+    display: inline-block;
+    position: fixed;
+    margin-right: 20%;
+    margin-left: 3%;
+    width: 18.5%;
+}
+
+h1{
+    font-size: 50px;
+    text-align: justify;
+}
+
+h2{
+    margin-top: -3%;
+    text-align: justify;
+    font-size: 20px;
+    color: gray;
+}
+
+.primeroi{
+    color: darkgray;
+    display: inline-block;
+}
+
+.primerod{
+    display: inline-block;
+    margin-top: 15px;
+    float: right;
+}
+
+.negrita{
+    color: black;
+}
+
+.imagen{
+    display: inline-block;
+    width: 25px;
+    padding: 15px;
+}
+
+.imgPortada{
+    width: 100%;
+}
+
+.imgDesc{
+    padding-left: 5%;
+    font-size: 15px;
+    color: gray;
+}
+
+.cuerpo{
+    font-size: 18px;
+    text-align: justify;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+}
